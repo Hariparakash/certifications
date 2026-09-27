@@ -1,26 +1,27 @@
-# Professional Certifications
+# Cybersecurity Certifications
 
-This repository contains my professional certificates earned through technical training and skill development.
+This section documents my cybersecurity certifications and technical training completed as part of my cybersecurity learning journey.
 
-## CAD & Mechanical Design
+## Completed Certifications
 
-- Proficient in CATIA (DLM)
-- Essential in AutoCAD
-- Essential in SolidWorks with AI
+- **Cisco Networking Basics** — Cisco Networking Academy
+  - Final Exam: 90%
+  - Status: Completed
 
-## Programming
+## In Progress / Planned
 
-- Proficient in Python for Professionals
-
-## Issuing Organization
-
-CADD Centre Training Services Pvt. Ltd.
-
-## Future Certifications
-
-- Cisco Networking Basics
 - Cisco Introduction to Cybersecurity
 - IBM Cybersecurity Fundamentals
-- Fortinet FCF
+- Fortinet Certified Fundamentals (FCF)
 - TryHackMe
-- PortSwigger Academy
+- PortSwigger Web Security Academy
+
+## Learning Focus
+
+- Networking
+- Cybersecurity Fundamentals
+- Linux
+- Network Security
+- Ethical Hacking
+- Web Security
+- CTFs and Practical Labs
